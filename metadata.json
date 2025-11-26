@@ -1,0 +1,8 @@
+{
+  "name": "Rucord",
+  "description": "The ultimate parody chat app. Features: 5000% Mic Boost, Regional Styles (US/RU/UA), Fake Server Hosting, Watch Together, and AI integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
